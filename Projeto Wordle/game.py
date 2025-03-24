@@ -182,7 +182,7 @@ while True:
         continue
     wordle.parseLinha(result)
     wordle.teste()
-    time.sleep(0.5)
+    #time.sleep(0.5)
     
     #print(result)
 
